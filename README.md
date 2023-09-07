@@ -1,2 +1,2 @@
 # leetcode
-# this is a repository for leetcode solution
+# this repository for leetcode solution
